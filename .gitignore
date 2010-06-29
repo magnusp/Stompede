@@ -1,3 +1,10 @@
 .DS_Store
 bin/
+out/
+*.iml
+*.xml
+.actionScriptProperties
+.flexLibProperties
+.project
+.settings
 
