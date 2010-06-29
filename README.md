@@ -28,8 +28,7 @@ The following frames are supported:
 * DISCONNECT
 * SUBSCRIBE
 * UNSUBSCRIBE
-* SEND
-
+* SEND (MESSAGE)
 
 Details
 =======
